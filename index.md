@@ -1,6 +1,6 @@
 <table>
    <tr>
-      <td align="center"><img src="https://github.com/xiaofeng94/xiaofeng94.github.io/master/img/zsy_accv_small.jpg" width="500"/></td>
+      <td align="center"><img src="https://github.com/xiaofeng94/xiaofeng94.github.io/blob/master/img/zsy_accv_small.jpg" width="500"/></td>
       <td align="left">
          <b>Shiyu Zhao 赵世雨</b> <br>
           <i>Master student</i> <br>
