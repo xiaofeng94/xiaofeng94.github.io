@@ -1,4 +1,4 @@
-<table>
+<table border="0">
    <tr>
       <td align="center"><img src="/img/zsy_accv_small.jpg" width="200" height="236"/></td>
       <td align="left">
