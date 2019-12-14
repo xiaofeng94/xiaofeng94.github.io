@@ -10,9 +10,9 @@
    </tr>
 </table>
 
-I am a master student of the School of Software Engineering, Tongji University, China, where I received my Bachelor's Degree. Currently, I am under the supervision of Prof. [Lin Zhang](http://sse.tongji.edu.cn/linzhang/). My due graduation date is March 2020.
+I am a master student at the School of Software Engineering, Tongji University, China, where I received my Bachelor's Degree. Currently, I am under the supervision of Prof. [Lin Zhang](http://sse.tongji.edu.cn/linzhang/). My due graduation date is March 2020.
 
-My research interst lays on solving computer vision problems with deep learning and graphics techniques. For the coming Fall 2020, I am seeking a Ph.D. position in relevant fields. 
+My research interest lies in solving computer vision problems with deep learning and graphics techniques. For the coming Fall 2020, I am seeking a Ph.D. position in relevant fields. 
 
 ### Publications & projects
 <table>
