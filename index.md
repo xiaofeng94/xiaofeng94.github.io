@@ -17,7 +17,7 @@ My research interest lies in solving computer vision problems with deep learning
 ### Publications & projects
 <table>
    <tr>
-      <td align="center"><img src="" width="200" height="200"/></td>
+      <td align="center" width="200" height="150"><img src="/img/dehazing_cover_pic.jpg"/></td>
       <td align="left">
          <b><i>RefineDNet: A Weakly Supervised Refinement Framework for Single Image Dehazing</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Ying Shen, and Shengjie Zhao<br>
@@ -29,7 +29,7 @@ My research interest lies in solving computer vision problems with deep learning
 
 <table>
    <tr>
-      <td align="center"><img src="" width="200" height="200"/></td>
+      <td align="center" width="200" height="150"><img src="/img/fog_simulation_cover_pic.jpg"/></td>
       <td align="left">
          <b><i>Simulation of Atmospheric Visibility Impairment</i></b> <br>
           Lin Zhang<sup>∗</sup>, <b>Shiyu Zhao</b>, Ying Shen, and Shengjie Zhao<br>
@@ -41,7 +41,7 @@ My research interest lies in solving computer vision problems with deep learning
 
 <table>
    <tr>
-      <td align="center"><img src="" width="200" height="200"/></td>
+      <td align="center" width="200" height="150"><img src="/img/bedde_tip_cover_pic.jpg"/></td>
       <td align="left">
          <b><i>Defogging Evaluation: Real-world Benchmark Datasets, New Criteria and Baselines</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Shuaiyi Huang, Ying Shen, and Shengjie Zhao <br>
@@ -53,7 +53,7 @@ My research interest lies in solving computer vision problems with deep learning
 
 <table>
    <tr>
-      <td align="center"><img src="" width="200" height="200"/></td>
+      <td align="center" width="200" height="150"><img src="/img/icme19_cover_pic.jpg"/></td>
       <td align="left">
          <b><i>Evaluation of Defogging: A Real-world Benchmark Dataset, A New Criterion and Baselines</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Shuaiyi Huang, Ying Shen, Shengjie Zhao, and Yukai Yang <br>
@@ -65,7 +65,7 @@ My research interest lies in solving computer vision problems with deep learning
 
 <table>
    <tr>
-      <td align="center"><img src="" width="200" height="200"/></td>
+      <td align="center" width="200" height="150"> <img src="/img/access_cover_pic.jpg"/> </td>
       <td align="left">
          <b><i>Super-Resolution for Monocular Depth Estimation with Multi-scale Sub-pixel Convolutions and A Smoothness Constraint</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Ying Shen, Shengjie Zhao, and Huijuan Zhang <br>
@@ -77,7 +77,7 @@ My research interest lies in solving computer vision problems with deep learning
 
 <table>
    <tr>
-      <td align="center"><img src="" width="200" height="200"/></td>
+      <td align="center" width="200" height="150"> <img src="/img/accv_cover_pic.jpg"/> </td>
       <td align="left">
          <b><i>A CNN-based Depth Estimation Approach with Multi-scale Sub-pixel Convolutions and A Smoothness Constraint</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Ying Shen, and Yongning Zhu <br>
