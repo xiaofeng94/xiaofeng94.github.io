@@ -14,7 +14,7 @@ I am a master student at the School of Software Engineering, Tongji University, 
 
 My research interest lies in solving computer vision problems with deep learning and graphics techniques. For the coming Fall 2020, I am seeking a Ph.D. position in relevant fields. 
 
-### Publications & projects
+### Publications & Projects
 <table>
    <tr>
       <td align="center" width="200" height="150"><img src="/img/dehazing_cover_pic.jpg"/></td>
@@ -81,7 +81,7 @@ My research interest lies in solving computer vision problems with deep learning
       <td align="left">
          <b><i>A CNN-based Depth Estimation Approach with Multi-scale Sub-pixel Convolutions and A Smoothness Constraint</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Ying Shen, and Yongning Zhu <br>
-          Asian Conference on Com- puter Vision (ACCV), 2018 <br>
+          Asian Conference on Computer Vision (ACCV), 2018 <br>
           <a href="https://link.springer.com/chapter/10.1007/978-3-030-20890-5_24">Paper</a>, <a href="https://github.com/xiaofeng94/MSCNNS-for-monocular-depth-estimation">Code</a><br>
       </td>
    </tr>
