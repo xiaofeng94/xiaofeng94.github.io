@@ -43,9 +43,9 @@ My research interest lies in solving computer vision problems with deep learning
    <tr>
       <td align="center" width="200" height="150"><img src="/img/bedde_tip_cover_pic.jpg"/></td>
       <td align="left">
-         <b><i>Defogging Evaluation: Real-world Benchmark Datasets, New Criteria and Baselines</i></b> <br>
+         <b><i>Dehazing Evaluation: Real-world Benchmark Datasets, New Criteria and Baselines</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Shuaiyi Huang, Ying Shen, and Shengjie Zhao <br>
-          Under review, 2019 <br>
+          Minor Revision, Transactions on Image Processing, 2019 <br>
           <a href="">Paper</a> (soon), <a href="https://github.com/xiaofeng94/BeDDE-for-defogging">Code</a><br><br> 
       </td>
    </tr>
