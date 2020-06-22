@@ -22,7 +22,7 @@ My research interest lies in solving computer vision problems with deep learning
          <b><i>RefineDNet: A Weakly Supervised Refinement Framework for Single Image Dehazing</i></b> <br>
           <b>Shiyu Zhao</b>, Lin Zhang<sup>∗</sup>, Ying Shen, and Shengjie Zhao<br>
           Under review, 2020 <br>
-          <a href="">Paper</a> (soon)<br>
+          <a href="">Paper</a> (coming), <a href="https://github.com/xiaofeng94/RefineDNet_for_dehazing">Code</a><br>
       </td>
    </tr>
 </table>
@@ -34,7 +34,7 @@ My research interest lies in solving computer vision problems with deep learning
          <b><i>Simulation of Atmospheric Visibility Impairment</i></b> <br>
           Lin Zhang<sup>∗</sup>, <b>Shiyu Zhao</b>, Ying Shen, and Shengjie Zhao<br>
           In preparation <br>
-          <a href="">Paper</a> (soon), <a href="https://github.com/xiaofeng94/renderdoc_for_game_data">Code</a><br>
+          <a href="">Paper</a> (coming), <a href="https://github.com/xiaofeng94/renderdoc_for_game_data">Code</a><br>
       </td>
    </tr>
 </table>
