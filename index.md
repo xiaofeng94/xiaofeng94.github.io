@@ -13,6 +13,7 @@ I received B.Eng and M.Eng in 2017 and 2020, respectively, in the School of Soft
 
 ### Publications & Projects
 (* indicates equal contributions)
+
 <!--
 <table>
    <tr>
