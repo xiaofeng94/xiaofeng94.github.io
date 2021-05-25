@@ -37,7 +37,7 @@ I received B.Eng and M.Eng in 2017 and 2020, respectively, in the School of Soft
          <b><i>Deep Animation Video Interpolation in the Wild</i></b> <br>
           Li Siyao<sup>∗</sup>, <b>Shiyu Zhao</b><sup>∗</sup>, Weijiang Yu, Wenxiu Sun, Dimitris Metaxas, Chen Change Loy, and Ziwei Liu <br>
           In CVPR, 2021 <br>
-          <a href="https://arxiv.org/abs/2104.02495">Paper</a>, <a href="">Code</a> (coming) <br>
+          <a href="https://arxiv.org/abs/2104.02495">Paper</a>, <a href="https://github.com/lisiyao21/AnimeInterp">Code</a> <br>
       </td>
    </tr>
 </table>
